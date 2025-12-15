@@ -1,12 +1,11 @@
 # Hi there, I'm Simon Fung 👋
 
-### I'm a Penultimate System Engineering and Engineering Management Student at The Chinese University of Hong Kong
+### I'm a Final Year System Engineering and Engineering Management Student at The Chinese University of Hong Kong
 
 ## About Me
 
-- 🌱 I’m currently learning React and data analytics  
-- 👀 I’m interested in web development and fintech solutions  
-- 💞️ I’m looking to collaborate on open-source web projects and data-driven applications  
+- 🌱 I’m currently learning cybersecurity
+- 👀 I’m interested in web development 
 - 💪 Future Goals: Become a full-stack developer and create impactful tech solutions
 
 ## Languages and Tools 🛠
