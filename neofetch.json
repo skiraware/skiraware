@@ -1,0 +1,45 @@
+{
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "Name", "value": "Simon Fung" },
+        { "key": "Education", "value": "System Eng & Eng Mgmt @ CUHK" },
+        { "key": "Learning", "value": "Cybersecurity" },
+        { "key": "Interested", "value": "Web Development" },
+        { "key": "Goals", "value": "Sub 3" }
+      ]
+    },
+    {
+      "title": "- Languages and Tools",
+      "fields": [
+        { "key": "Languages", "value": "HTML, CSS, JavaScript, Python, SQL" },
+        { "key": "Tools", "value": "React, Git, Figma" }
+      ]
+    },
+    {
+      "title": "- Connect with Me",
+      "fields": [
+        { "key": "Email", "value": "skiraware@gmail.com" },
+        {
+          "key": "LinkedIn",
+          "value": "linkedin.com/in/fungsaiwa-skiraware-com"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      {
+        "left": { "key": "Repos", "value": "{{repos}}" },
+        "right": { "key": "Stars", "value": "{{stars}}" }
+      },
+      {
+        "left": { "key": "Commits", "value": "{{commits}}" },
+        "right": { "key": "Followers", "value": "{{followers}}" }
+      },
+      "loc"
+    ]
+  }
+}
